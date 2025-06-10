@@ -1,4 +1,4 @@
-<p align="center">  
+<!-- <p align="center">  
    <img src="img/logo.svg" alt="Logotipo"/> 
 </p>
 
@@ -36,4 +36,51 @@ O projeto poderá ser visualizado [aqui](currency-converter-jvbtm1sei-rafaelamor
 <br/>
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. -->
+
+# 🪙 Currency Converter
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+![Made with](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
+![PRs](https://img.shields.io/badge/PRs-welcome-blue)
+
+Conversor de moedas estrangeiras (dólar, euro e libra) para reais.  
+Este projeto foi inspirado em um layout da Rocketseat no Figma, com algumas melhorias e funcionalidades extras.
+
+A aplicação consome uma API em tempo real para obter a cotação atual das moedas, permitindo que o usuário converta valores de forma rápida e precisa.
+
+---
+
+## 🖼 Preview
+
+![preview do app](./files/preview.png)
+
+> 💡 Dica: caso ainda não tenha essa imagem, tire um print do app rodando e salve como `preview.png` dentro da pasta `/img`.
+
+---
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) (cotações em tempo real)
+
+---
+
+## 📦 Funcionalidades
+
+- Conversão de USD, EUR ou GBP para BRL
+- Cálculo automático com base no valor digitado
+- Resposta com cotação atualizada
+- Interação com o DOM e manipulação de eventos
+- Estilo responsivo e intuitivo
+
+---
+
+## 📥 Como usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/rafaelamorimdev/currency-converter.git
