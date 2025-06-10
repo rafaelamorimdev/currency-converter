@@ -31,7 +31,7 @@ Protótipo do projeto foi desenvolvido no Figma e pode ser acessado [aqui](files
 
 ## 🚀 Visualizar o Projeto
 
-O projeto poderá ser visualizado [aqui](https://danilosalvador.github.io/convert/).
+O projeto poderá ser visualizado [aqui](currency-converter-jvbtm1sei-rafaelamorimdevs-projects.vercel.app).
 
 <br/>
 
