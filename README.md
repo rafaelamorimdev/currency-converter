@@ -59,7 +59,7 @@ A aplicação consome uma API em tempo real para obter a cotação atual das moe
 <br/>
 
 
-## 🚀 Visualizar o Projeto
+## 💻 Visualizar o Projeto
 
 O projeto poderá ser visualizado [aqui](currency-converter-jvbtm1sei-rafaelamorimdevs-projects.vercel.app).
 
