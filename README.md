@@ -56,8 +56,14 @@ A aplicação consome uma API em tempo real para obter a cotação atual das moe
 
 ![preview do app](./files/preview.png)
 
-> 💡 Dica: caso ainda não tenha essa imagem, tire um print do app rodando e salve como `preview.png` dentro da pasta `/img`.
+<br/>
 
+
+## 🚀 Visualizar o Projeto
+
+O projeto poderá ser visualizado [aqui](currency-converter-jvbtm1sei-rafaelamorimdevs-projects.vercel.app).
+
+<br/>
 ---
 
 ## 🚀 Tecnologias
